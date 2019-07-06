@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/loyalty-card-keeper/static/css/main.d03f8bf0.chunk.css",
+    "main.js": "/loyalty-card-keeper/static/js/main.1d6e43b0.chunk.js",
+    "main.js.map": "/loyalty-card-keeper/static/js/main.1d6e43b0.chunk.js.map",
+    "runtime~main.js": "/loyalty-card-keeper/static/js/runtime~main.65a5b318.js",
+    "runtime~main.js.map": "/loyalty-card-keeper/static/js/runtime~main.65a5b318.js.map",
+    "static/js/2.ec93214b.chunk.js": "/loyalty-card-keeper/static/js/2.ec93214b.chunk.js",
+    "static/js/2.ec93214b.chunk.js.map": "/loyalty-card-keeper/static/js/2.ec93214b.chunk.js.map",
+    "index.html": "/loyalty-card-keeper/index.html",
+    "precache-manifest.addeeaf015a0d04e4d9bd1ba1b7c8a00.js": "/loyalty-card-keeper/precache-manifest.addeeaf015a0d04e4d9bd1ba1b7c8a00.js",
+    "service-worker.js": "/loyalty-card-keeper/service-worker.js",
+    "static/css/main.d03f8bf0.chunk.css.map": "/loyalty-card-keeper/static/css/main.d03f8bf0.chunk.css.map",
+    "static/media/cvs.png": "/loyalty-card-keeper/static/media/cvs.6794d06b.png",
+    "static/media/giant.png": "/loyalty-card-keeper/static/media/giant.601ebead.png",
+    "static/media/safeway.png": "/loyalty-card-keeper/static/media/safeway.04e4df0b.png",
+    "static/media/vic.png": "/loyalty-card-keeper/static/media/vic.cb9737f3.png"
+  }
+}
